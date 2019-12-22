@@ -1,3 +1,4 @@
+[中文版项目介绍](https://shawvey.github.io/%E4%BA%94%E7%82%B9%E6%A8%A1%E5%85%B7%E4%BB%A3%E7%A0%81%E7%9A%84%E4%B8%B2%E8%A1%8C%E4%BC%98%E5%8C%96/)
 ## 5-point stencil code
 
 This code implements a weighted 5-point stencil on a rectangular grid.  The
